@@ -17,7 +17,10 @@ Databricks ML is a data-native and collaborative solution for the full ML lifecy
 
 ### MLflow Overview
 MLflow is one of the major components of performing machine learning on Databricks. It's an open source tool developed within Databricsk for managing the entire machine learning lifecycle. 
-![How Bricks ML Solutions](../images/ml-flow.png)
+![](../images/ml-flow.png)
 
 ### AutoML
 Databricks AutoML helps practitioners automatically apply machine learning to a dataset. It utilizes popular open-source machine learning libraries to build the models.
+![AutoML Flow](../images/auto-ml.png)
+
+Unlike other automated machine learning products, AutoML is a glass box solution. It utilizes popular open-source machine learning libraries to build the models. This means that data scientists and machine learning engineers can use and edit the AutoML-generated code into their machine learning pipelines. This prevents lock-in with automated machine learning vendors that keep everything within a black box.
