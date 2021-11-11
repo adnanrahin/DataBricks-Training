@@ -11,6 +11,6 @@ Databricks ML is a data-native and collaborative solution for the full ML lifecy
 
 3. Freature Development: When solving data science problems, practitioners need to create their input datasets. The domain knowledge and engineering prowess necessary to do this requires time to develop and apply, so this can freqeuntly be one of th most time-consuming parts of the machine learning lifecycly. In addition, this creates many opportunitites of practitioners to accidentally miscalculate a feature value.
 
-### DataBricks Ml Solutions
+### DataBricks ML Solutions
 
 ![How Bricks ML Solutions](../images/ml-sol.png)
