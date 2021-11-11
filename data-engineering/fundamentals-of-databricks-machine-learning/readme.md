@@ -14,3 +14,10 @@ Databricks ML is a data-native and collaborative solution for the full ML lifecy
 ### DataBricks ML Solutions
 
 ![How Bricks ML Solutions](../images/ml-sol.png)
+
+### MLflow Overview
+MLflow is one of the major components of performing machine learning on Databricks. It's an open source tool developed within Databricsk for managing the entire machine learning lifecycle. 
+![How Bricks ML Solutions](../images/ml-flow.png)
+
+### AutoML
+Databricks AutoML helps practitioners automatically apply machine learning to a dataset. It utilizes popular open-source machine learning libraries to build the models.
